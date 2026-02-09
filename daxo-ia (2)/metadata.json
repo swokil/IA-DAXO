@@ -1,0 +1,9 @@
+
+{
+  "name": "Daxo IA",
+  "description": "Intelligence Artificielle de nouvelle génération - Chat, Image, Vidéo et Voix.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
